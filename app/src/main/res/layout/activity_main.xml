@@ -22,7 +22,7 @@
 			android:background="@color/colorPrimary"
 			android:elevation="7dp"
 			android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-			app:layout_scrollFlags="scroll|enterAlways|enterAlwaysCollapsed"
+			app:layout_scrollFlags="scroll|enterAlways|snap"
 			app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
 		<!--app:layout_scrollFlags="scroll|enterAlwaysCollapsed" adds scroll behavior-->
 	</android.support.design.widget.AppBarLayout>
